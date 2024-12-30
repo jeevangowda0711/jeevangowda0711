@@ -52,7 +52,6 @@ Welcome to my GitHub! I'm a **Product Manager, Software Engineer, and AI Enthusi
 
 - 🌟 **Portfolio**: [jeevangowda.me](https://jeevangowda.me)
 - 💼 **LinkedIn**: [linkedin.com/in/jeevan-gowda-9873491a6](https://www.linkedin.com/in/jeevan-gowda-9873491a6)
-- 🛠️ **GitHub**: [github.com/jeevangowda0711](https://github.com/jeevangowda0711)
 - 📫 **Email**: [jeevangowda0711@gmail.com](mailto:jeevangowda0711@gmail.com)
 
 ---
