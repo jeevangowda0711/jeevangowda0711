@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jeevan and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Jeevan and I'm a Full-Stack Developer & Aspiring Product Manager from Fullerton, CA</h2>
 
 ###
 
@@ -91,5 +91,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/jeevangowda0711/jeevangowda0711/output/snake.svg" alt="Snake animation" />
+
 
 ###
