@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jeevan and I'm a Full-Stack Developer & Aspiring Product Manager from Fullerton, CA</h2>
+<h2 align="left">Hi 👋! My name is Jeevan and I'm a Full-Stack Developer & Aspiring Product Manager from Earth</h2>
 
 ###
 
@@ -94,3 +94,4 @@
 
 
 ###
+
