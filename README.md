@@ -1,7 +1,4 @@
-<h2 align="left">Hi 👋 I'm Jeevan — Full-Stack Developer & Aspiring Product Manager</h2>
-
-I build intelligent, user-centric products that combine engineering depth with product intuition.  
-From backend APIs to frontend experiences to cloud infrastructure — I bring together technology, analytics, and product thinking to ship meaningful software.
+<h2 align="left">Hi 👋 I'm Jeevan — Product Manager / Business Data Analyst</h2>
 
 ---
 
@@ -105,4 +102,5 @@ From backend APIs to frontend experiences to cloud infrastructure — I bring to
 
 ## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/jeevangowda0711/jeevangowda0711/output/snake.svg" alt="Snake animation" />
+
 
