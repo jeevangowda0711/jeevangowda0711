@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Jeevan — Product Manager + Builder</h2>
+<h2 align="left">Hi 👋 I'm Jeevan — I observe, learn, and create - I have worked as a Product Manager, Software Engineer, and Business Analyst</h2>
 
 <p align="left">
 I build software products end-to-end — from identifying the problem and defining the MVP to shipping full-stack features, dashboards, and APIs.
@@ -96,3 +96,4 @@ I enjoy turning ambiguous ideas into simple, usable products with measurable imp
 
 ## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/jeevangowda0711/jeevangowda0711/output/snake.svg" alt="Snake animation" />
+
