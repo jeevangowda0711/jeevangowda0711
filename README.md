@@ -15,9 +15,21 @@ I enjoy turning ambiguous ideas into simple, usable products with measurable imp
 ---
 
 ## 🧩 Featured Work
-- **CommMatch** — communication-style insights + profile/scoring pipeline (MBTI/DiSC/Emergenetics/CliftonStrengths)  
-- **Data Analytics Projects** — SQL/Snowflake transformations + Power BI KPI dashboards  
-- **PM Case Studies** — product strategy + execution writeups (roadmaps, tradeoffs, metrics)
+
+- **CommMatch** — AI-powered communication-style insights platform with real-time profiling & scoring  
+  *(MBTI, DiSC, Emergenetics, CliftonStrengths)*  
+  🔗 https://devpost.com/software/commmatch
+- **Rails E-Commerce Store** — Full-stack eCommerce application built with Ruby on Rails  
+  *(authentication, cart, orders, payments, admin workflows)*  
+  🔗 https://github.com/jeevangowda0711/Rails_E-Commerce_Store  
+- **GrooveMate** — AI music companion focused on personalized discovery & engagement  
+  🔗 https://devpost.com/software/groovemate  
+- **MasterChief AI** — Personal AI assistant for task automation, information retrieval, and productivity  
+  🔗 https://github.com/jeevangowda0711/MasterChief-AI-Personal-Assistant  
+- **ATC Data Analysis** — SQL-driven data analysis with insights and visualizations  
+  🔗 https://github.com/jeevangowda0711/ATC-Data-Analysis  
+- **Product Management Case Studies** — End-to-end PM case studies covering strategy, execution, tradeoffs, and metrics  
+  🔗 https://github.com/jeevangowda0711
 
 ---
 
@@ -96,4 +108,5 @@ I enjoy turning ambiguous ideas into simple, usable products with measurable imp
 
 ## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/jeevangowda0711/jeevangowda0711/output/snake.svg" alt="Snake animation" />
+
 
